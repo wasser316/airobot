@@ -1,4 +1,4 @@
-# Week 7：期中复习
+# Week 7：Markdown 与 GitHub 作业整理
 
 ## 实验内容
 

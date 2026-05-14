@@ -1,4 +1,4 @@
-# Week 8：学习docker环境
+# Week 8：Docker 安装与 ROS2 桌面容器
 
 ## 实验内容
 
